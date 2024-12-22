@@ -5,6 +5,8 @@ DOWNLOAD:https://www.mediafire.com/file/gyv4wtw0w02b62f/Manhunt_2_The_Project_Go
 
 This file is too big for me to upload to multiple platforms so I will upload to mediafire
 
+Install: open it in ppsspp and install
+
 Features: port pc execution for manhunt 2 psp, bloody, gore skin. 
 
 This is a modified version of the game manhunt 2 with many mods installed. 
