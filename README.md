@@ -23,4 +23,4 @@ Plugin(unnecessary):https://ermaccer.github.io/posts/mh2censorshippatch/
 https://ermaccer.github.io/posts/mh2menupsp/
 
 Extra texture:https://mega.nz/file/NDkkTZZb#orsQjaWIE9TYaZ8Y5J9K1KhdISinQijuoYT9g-V6PUE
-Calculate bamboo shoots 
+
