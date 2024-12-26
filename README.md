@@ -1,7 +1,7 @@
 # The project gore manhunt 2 PSP
 Increase violence and gore for game manhunt 2 psp
 The project gore 
-DOWNLOAD:https://www.mediafire.com/file/gyv4wtw0w02b62f/Manhunt_2_The_Project_Gore.zip/file
+DOWNLOAD:under maintance
 
 This file is too big for me to upload to multiple platforms so I will upload to mediafire
 
@@ -17,8 +17,8 @@ by givemeanumber
 Manhunt 2 The perfect edition https://m.youtube.com/watch?v=U2kuaM92AhY
 Skin:https://youtu.be/dHefDMaIuiY?si=B4u4oaswed_Y1os9
 
-Logo and texture convert (.png to .txd) by Ry:me
-
+Logo and texture conversion (.png to .txd) by Ry:me
+ 
 Bugs:The health bar disappears
 
 Plugin(unnecessary):https://ermaccer.github.io/posts/mh2censorshippatch/
