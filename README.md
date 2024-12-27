@@ -3,7 +3,7 @@ Increase violence and gore for game manhunt 2 psp
 The project gore 
 
 Beta version v1
-DOWNLOAD:https://www.mediafire.com/file/6qe1sfthh7ua5rp/Manhunt_2_The_Project_Gore.zip/file 
+DOWNLOAD:https://minhmc2007.github.io/The-project-gore-manhunt-2-psp-website/ 
 
 This file is too big for me to upload to multiple platforms so I will upload to mediafire
 
