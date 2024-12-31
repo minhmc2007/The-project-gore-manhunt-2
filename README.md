@@ -29,7 +29,8 @@ https://ermaccer.github.io/posts/mh2menupsp/
 Extra texture:https://mega.nz/file/NDkkTZZb#orsQjaWIE9TYaZ8Y5J9K1KhdISinQijuoYT9g-V6PUE
 
 Changelogs:
-   Beta v1 : new ps2 beta camera system, add ps2 beta damage system (more gore).
-   The fist version : installed mods and skins
+Beta v2: fix blood texture, remove mew execution by Walt3r Whit3x (no sounds build in yet) 
+Beta v1 : new ps2 beta camera system, add ps2 beta damage system (more gore).
+The fist version : installed mods and skins
 
  
