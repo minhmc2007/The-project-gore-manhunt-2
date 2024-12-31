@@ -2,12 +2,13 @@
 Increase violence and gore for game manhunt 2 psp
 The project gore 
 
-Beta version v1
+Beta version v2
 DOWNLOAD:https://minhmc2007.github.io/The-project-gore-manhunt-2-psp-website/ 
 
 This file is too big for me to upload to multiple platforms so I will upload to mediafire
 
 INSTALL:extract it, open ppsspp and navigate to that folder.
+Please check for update to fix bug and new features.
 
 FEATURES:port pc execution for manhunt 2 psp, bloody, gore skin. 
 
@@ -29,4 +30,6 @@ Extra texture:https://mega.nz/file/NDkkTZZb#orsQjaWIE9TYaZ8Y5J9K1KhdISinQijuoYT9
 
 Changelogs:
    Beta v1 : new ps2 beta camera system, add ps2 beta damage system (more gore).
-   The fist version : installed mods and skin
+   The fist version : installed mods and skins
+
+ 
