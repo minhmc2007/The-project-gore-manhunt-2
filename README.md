@@ -5,7 +5,7 @@ The project gore
 Beta version v2
 DOWNLOAD:https://minhmc2007.github.io/The-project-gore-manhunt-2-psp-website/ 
 
-This file is too big for me to upload to multiple platforms so I will upload to mediafire
+This file is too big so I will upload to mediafire
 
 INSTALL:extract it, open ppsspp and navigate to that folder.
 Please check for update to fix bug and new features.
