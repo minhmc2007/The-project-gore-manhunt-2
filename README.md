@@ -13,7 +13,9 @@ Please check for update to fix bug and new features.
 FEATURES:port pc execution for manhunt 2 psp, bloody, gore skin. 
 
 This is a modified version of the game manhunt 2 with many mods installed. 
+
 MOD:
+
    Wacko Restored for PSP by TordGames
    
    Uncensored Execution Animations by givemeanumber
@@ -39,6 +41,3 @@ Beta v1 : new ps2 beta camera system, add ps2 beta damage system (more gore).
 
 The fist version : installed mods and skins
 
- 
-
-c 
