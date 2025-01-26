@@ -3,9 +3,12 @@ Increase violence and gore for game manhunt 2 psp
 
 
 Beta version v2
+
+Fist mirror (mediafire suck)
 DOWNLOAD:https://minhmc2007.github.io/The-project-gore-manhunt-2-psp-website/ 
 
-This file is too big so I will upload to mediafire
+Second mirror (Faster than mediafire)
+Download:https://github.com/minhmc2007/The-project-gore-manhunt-2/releases/tag/v0.0.1-beta.2
 
 INSTALL:extract it, open ppsspp and navigate to that folder.
 Please check for update to fix bug and new features.
