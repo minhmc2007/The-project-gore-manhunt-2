@@ -13,7 +13,7 @@ Download:https://github.com/minhmc2007/The-project-gore-manhunt-2/releases/tag/v
 INSTALL:extract it, open ppsspp and navigate to that folder.
 Please check for update to fix bug and new features.
 
-DISCUSSIONS: Here https://github.com/minhmc2007/The-project-gore-manhunt-2/discussions/1
+DISCUSSIONS: Here https://github.com/minhmc2007/The-project-gore-manhunt-2/discussions/
 
 FEATURES:port pc execution for manhunt 2 psp, bloody, gore skin. 
 
