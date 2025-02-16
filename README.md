@@ -1,48 +1,72 @@
-# The project gore manhunt 2 PSP
-Increase violence and gore for game manhunt 2 psp
+# 🎮 Manhunt 2 PSP - Enhanced Edition (Beta v2)
 
+A modification package that enhances the PSP version of Manhunt 2 with restored content and visual improvements.  
 
-Beta version v2
+## 📜 Table of Contents
+- 📥 [Downloads](#downloads)
+- 🛠️ [Installation](#installation)
+- ✨ [Features](#features)
+- 🔌 [Required Plugins](#required-plugins)
+- 🎨 [Additional Content](#additional-content)
+- 📝 [Included Mods](#included-mods)
+- ⚠️ [Known Issues](#known-issues)
+- 📖 [Changelog](#changelog)
+- 💬 [Community](#community)
+- 🔄 [Updates](#updates)
 
-Fist mirror (mediafire suck)
-DOWNLOAD:https://minhmc2007.github.io/The-project-gore-manhunt-2-psp-website/ 
+## 📥 Downloads
 
-Second mirror (Faster than mediafire)
-Download:https://github.com/minhmc2007/The-project-gore-manhunt-2/releases/tag/v0.0.1-beta.2
+### 🌐 Primary Mirror
+[📂 Download Here](https://minhmc2007.github.io/The-project-gore-manhunt-2-psp-website/)
 
-INSTALL:extract it, open ppsspp and navigate to that folder.
-Please check for update to fix bug and new features.
+### 🚀 Secondary Mirror (Faster)
+[📂 Download Here](https://github.com/minhmc2007/The-project-gore-manhunt-2/releases/tag/v0.0.1-beta.2)
 
-DISCUSSIONS: Here https://github.com/minhmc2007/The-project-gore-manhunt-2/discussions/
+## 🛠️ Installation
+1. 📦 Download and extract the package  
+2. 🎮 Open PPSSPP emulator  
+3. 📁 Navigate to the extracted folder  
+4. ▶️ Load the game  
 
-FEATURES:port pc execution for manhunt 2 psp, bloody, gore skin. 
+## ✨ Features
+- 🔪 Restored execution animations from PC version  
+- 🌟 Enhanced visual effects and textures  
+- 💥 Modified damage system based on PS2 beta version  
+- 🎥 Updated camera system from PS2 beta  
+- 👕 Custom character skins  
 
-This is a modified version of the game manhunt 2 with many mods installed. 
+## 🔌 Required Plugins
+- 🛑 [Censorship Patch](https://ermaccer.github.io/posts/mh2censorshippatch/)  
+- 📜 [Menu Mod](https://ermaccer.github.io/posts/mh2menupsp/)  
 
-MOD:
+## 🎨 Additional Content
+- 🖼️ [Extra Textures Pack](https://mega.nz/file/NDkkTZZb#orsQjaWIE9TYaZ8Y5J9K1KhdISinQijuoYT9g-V6PUE)  
 
-   Wacko Restored for PSP by TordGames
-   
-   Uncensored Execution Animations by givemeanumber
-   
-   Manhunt 2 The perfect edition by Walt3r Whit3x
-   
-   Skin by Ry
+## 📝 Included Mods
+- 🩸 Wacko Restored for PSP by TordGames  
+- 🗡️ Uncensored Execution Animations by givemeanumber  
+- 🎭 Manhunt 2 The Perfect Edition by Walt3r Whit3x  
+- 🖌️ Custom Skins by Ry  
+- 🏷️ Logo and texture conversion by minhmc2007  
 
-Logo and texture conversion (.png to .txd) by me
- 
-Bugs:The health bar disappears 
+## ⚠️ Known Issues
+- ❌ Health bar may disappear during gameplay  
 
-Plugin(necessary):https://ermaccer.github.io/posts/mh2censorshippatch/
-https://ermaccer.github.io/posts/mh2menupsp/
+## 📖 Changelog
 
-Extra texture:https://mega.nz/file/NDkkTZZb#orsQjaWIE9TYaZ8Y5J9K1KhdISinQijuoYT9g-V6PUE
+### 🔹 Beta v2
+- 🩸 Fixed blood texture issues  
+- 🔇 Removed Walt3r Whit3x execution animations (pending sound implementation)  
 
-Changelogs:
+### 🔹 Beta v1
+- 🎥 Implemented PS2 beta camera system  
+- 💥 Added PS2 beta damage system  
 
-Beta v2: fix blood texture, remove mew execution by Walt3r Whit3x (no sounds build in yet) 
+### 🆕 Initial Release
+- 📦 Base mod package with custom skins  
 
-Beta v1 : new ps2 beta camera system, add ps2 beta damage system (more gore).
+## 💬 Community
+Join the discussion on our [GitHub Discussions page](https://github.com/minhmc2007/The-project-gore-manhunt-2/discussions/)  
 
-The fist version : installed mods and skins
-
+## 🔄 Updates
+Please check regularly for updates that address bugs and add new features.  
